@@ -7,8 +7,8 @@ const projects = [
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://react-landing-page-iota-livid.vercel.app/",
+    githubUrl: "https://github.com/ihr08/React-landing-page",
   },
   {
     id: 2,
