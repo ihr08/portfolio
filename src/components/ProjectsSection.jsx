@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/ihr08/Orbit-Analytics-Dashboard",
   },
   {
     id: 3,
