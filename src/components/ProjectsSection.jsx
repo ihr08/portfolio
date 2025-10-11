@@ -22,13 +22,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Macbook Landing Page",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS!",
+    image: "/projects/hero1.webp",
+    tags: ["React", "Three.js", "GSAP" , "TailwindCSS"],
+    demoUrl: "https://macbook-landing-page-zeta.vercel.app/",
+    githubUrl: "https://github.com/ihr08/macbook-landing-page",
   },
 ];
 
