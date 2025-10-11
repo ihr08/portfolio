@@ -15,7 +15,7 @@ const projects = [
     title: "Ai resume analyzer",
     description:
       "Build an AI-powered Resume Analyzer with React, React Router, and Puter.js!",
-    image: "/project/hero.webp",
+    image: "/projects/hero.webp",
     tags: ["TypeScript", "Puter.js", "React" , "React Router"],
     demoUrl: "https://ai-resume-analyzer-eta-one.vercel.app/",
     githubUrl: "https://github.com/ihr08/ai-resume-analyzer",
