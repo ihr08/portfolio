@@ -12,13 +12,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Ai resume analyzer",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/ihr08/Orbit-Analytics-Dashboard",
+      "Build an AI-powered Resume Analyzer with React, React Router, and Puter.js!",
+    image: "hero.webp",
+    tags: ["TypeScript", "Puter.js", "React" , "React Router"],
+    demoUrl: "https://ai-resume-analyzer-eta-one.vercel.app/",
+    githubUrl: "https://github.com/ihr08/ai-resume-analyzer",
   },
   {
     id: 3,
